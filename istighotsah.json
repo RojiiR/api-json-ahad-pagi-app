@@ -1,14 +1,45 @@
-[
-  {
-    "number": "1",
-    "arabic": "اَسْتَغْفِرُ اللهَ رَبِّيْ مِنْ كُلِّ ذَنْبٍ وَأَتُوْبُ إِلَيْهِ",
-    "latin": "Astaghfirullaaha rabbii min kulli dzanbin wa atuubu ilaih",
-    "translation": "Aku memohon ampun kepada Allah Tuhanku dari segala dosa dan aku bertaubat kepada-Nya."
-  },
-  {
-    "number": "2",
-    "arabic": "اَللّٰهُمَّ اِنَّا نَسْتَغِيْثُ بِكَ وَنَسْتَنْصِرُكَ وَنَتَوَجَّهُ اِلَيْكَ",
-    "latin": "Allaahumma innaa nastaghiitsu bika wa nastanshiruka wa natawajjahu ilaik",
-    "translation": "Ya Allah, kami memohon pertolongan kepada-Mu, kemenangan dari-Mu, dan kami menghadap kepada-Mu."
-  }
-]
+{
+  "nama": "Istighotsah",
+  "nama_latin": "Istighotsah",
+  "jumlah_bacaan": 5,
+  "deskripsi": "Kumpulan doa istighotsah untuk memohon pertolongan Allah dari segala kesulitan.",
+  "status": true,
+
+  "bacaan": [
+    {
+      "id": 1,
+      "judul": "Istighfar",
+      "ar": "اَسْتَغْفِرُ اللهَ رَبِّيْ مِنْ كُلِّ ذَنْبٍ وَأَتُوْبُ إِلَيْهِ",
+      "tr": "Astaghfirullāha rabbī min kulli dzanbin wa atūbu ilaih",
+      "idn": "Aku memohon ampun kepada Allah Tuhanku dari segala dosa dan aku bertaubat kepada-Nya."
+    },
+    {
+      "id": 2,
+      "judul": "Doa Permohonan Pertolongan",
+      "ar": "اَللّٰهُمَّ اِنَّا نَسْتَغِيْثُ بِكَ وَنَسْتَنْصِرُكَ وَنَتَوَجَّهُ اِلَيْكَ",
+      "tr": "Allāhumma innā nastaghītsu bika wa nastanshiruka wa natawajjahu ilaik",
+      "idn": "Ya Allah, kami memohon pertolongan kepada-Mu, meminta kemenangan dari-Mu, dan menghadap kepada-Mu."
+    },
+    {
+      "id": 3,
+      "judul": "Hasbunallah",
+      "ar": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ",
+      "tr": "Hasbunallāhu wa ni‘mal wakīl",
+      "idn": "Cukuplah Allah menjadi penolong kami dan Allah sebaik-baik pelindung."
+    },
+    {
+      "id": 4,
+      "judul": "Laa Hawla",
+      "ar": "لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ",
+      "tr": "Lā ḥaula wa lā quwwata illā billāhil ‘aliyyil ‘azhīm",
+      "idn": "Tiada daya dan kekuatan kecuali dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung."
+    },
+    {
+      "id": 5,
+      "judul": "Doa Penutup Istighotsah",
+      "ar": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
+      "tr": "Rabbana lā tuzigh qulūbanā ba‘da idh hadaytanā wa hab lanā min ladunka raḥmah, innaka antal wahhāb",
+      "idn": "Ya Tuhan kami, janganlah Engkau palingkan hati kami setelah Engkau beri petunjuk kepada kami, dan karuniakanlah rahmat kepada kami dari sisi-Mu. Sesungguhnya Engkau Maha Pemberi."
+    }
+  ]
+}
