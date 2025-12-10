@@ -1,0 +1,31 @@
+{
+  "nama": "Tahlil",
+  "nama_latin": "Tahlil",
+  "jumlah_bacaan": 3,
+  "deskripsi": "Kumpulan bacaan tahlil untuk mendoakan orang yang telah wafat.",
+  "status": true,
+
+  "bacaan": [
+    {
+      "id": 1,
+      "judul": "Tahlil Utama",
+      "ar": "لَا اِلٰهَ اِلَّا اللهُ",
+      "tr": "Lā ilāha illallāh",
+      "idn": "Tiada Tuhan selain Allah."
+    },
+    {
+      "id": 2,
+      "judul": "Sholawat",
+      "ar": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ",
+      "tr": "Allāhumma ṣalli ‘alā sayyidinā Muḥammad",
+      "idn": "Ya Allah, limpahkan shalawat kepada Nabi Muhammad."
+    },
+    {
+      "id": 3,
+      "judul": "Doa Penutup",
+      "ar": "رَبَّنَا تَقَبَّلْ مِنَّا ...",
+      "tr": "Rabbana taqabbal minnā...",
+      "idn": "Ya Tuhan kami, terimalah dari kami..."
+    }
+  ]
+}
