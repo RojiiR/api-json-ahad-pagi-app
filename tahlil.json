@@ -1,31 +1,99 @@
 {
   "nama": "Tahlil",
   "nama_latin": "Tahlil",
-  "jumlah_bacaan": 3,
-  "deskripsi": "Kumpulan bacaan tahlil untuk mendoakan orang yang telah wafat.",
+  "jumlah_bacaan": 11,
+  "deskripsi": "Kumpulan bacaan tahlil yang lengkap untuk mendoakan orang yang telah wafat.",
   "status": true,
 
   "bacaan": [
+
     {
       "id": 1,
-      "judul": "Tahlil Utama",
-      "ar": "لَا اِلٰهَ اِلَّا اللهُ",
+      "judul": "Ta'awwudz",
+      "ar": "أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+      "tr": "A‘ūdzu billāhi minasy-syayṭānir-rajīm",
+      "idn": "Aku berlindung kepada Allah dari godaan setan yang terkutuk."
+    },
+
+    {
+      "id": 2,
+      "judul": "Basmalah",
+      "ar": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "tr": "Bismillāhir-raḥmānir-raḥīm",
+      "idn": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+    },
+
+    {
+      "id": 3,
+      "judul": "Al-Fatihah",
+      "ar": "الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ ...",
+      "tr": "Al-ḥamdu lillāhi rabbil ‘ālamīn ...",
+      "idn": "Segala puji bagi Allah Tuhan semesta alam..."
+    },
+
+    {
+      "id": 4,
+      "judul": "Tahlil",
+      "ar": "لَا اِلٰهَ اِلَّا اللّٰهُ",
       "tr": "Lā ilāha illallāh",
       "idn": "Tiada Tuhan selain Allah."
     },
+
     {
-      "id": 2,
+      "id": 5,
+      "judul": "Tahmid",
+      "ar": "اَلْحَمْدُ لِلّٰهِ",
+      "tr": "Al-ḥamdu lillāh",
+      "idn": "Segala puji bagi Allah."
+    },
+
+    {
+      "id": 6,
+      "judul": "Tasbih",
+      "ar": "سُبْحَانَ اللّٰهِ",
+      "tr": "Subḥānallāh",
+      "idn": "Maha Suci Allah."
+    },
+
+    {
+      "id": 7,
+      "judul": "Takbir",
+      "ar": "اَللّٰهُ اَكْبَرُ",
+      "tr": "Allāhu akbar",
+      "idn": "Allah Maha Besar."
+    },
+
+    {
+      "id": 8,
       "judul": "Sholawat",
       "ar": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ",
       "tr": "Allāhumma ṣalli ‘alā sayyidinā Muḥammad",
       "idn": "Ya Allah, limpahkan shalawat kepada Nabi Muhammad."
     },
+
     {
-      "id": 3,
-      "judul": "Doa Penutup",
-      "ar": "رَبَّنَا تَقَبَّلْ مِنَّا ...",
-      "tr": "Rabbana taqabbal minnā...",
-      "idn": "Ya Tuhan kami, terimalah dari kami..."
+      "id": 9,
+      "judul": "Istighfar",
+      "ar": "اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ",
+      "tr": "Astaghfirullāhal ‘aẓīm",
+      "idn": "Aku memohon ampun kepada Allah Yang Maha Agung."
+    },
+
+    {
+      "id": 10,
+      "judul": "Laa Hawla",
+      "ar": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ",
+      "tr": "Lā ḥaula wa lā quwwata illā billāhil ‘aliyyil ‘aẓīm",
+      "idn": "Tiada daya dan upaya kecuali dengan pertolongan Allah Yang Maha Tinggi lagi Maha Besar."
+    },
+
+    {
+      "id": 11,
+      "judul": "Doa Arwah",
+      "ar": "اَللّٰهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ ...",
+      "tr": "Allāhummaghfir lahu warḥamhu ...",
+      "idn": "Ya Allah, ampunilah dia, rahmatilah dia..."
     }
+
   ]
 }
