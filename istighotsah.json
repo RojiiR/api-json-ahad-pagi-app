@@ -1,53 +1,64 @@
 {
-  "nomor": 1,
-  "nama": "الاِسْتِغَاثَة",
-  "nama_latin": "Istighotsah",
-  "jumlah_bagian": 12,
-  "arti": "Permohonan Pertolongan",
-  "deskripsi": "Istighotsah adalah kumpulan doa-doa yang dibaca untuk memohon pertolongan kepada Allah. Susunan ini mengikuti format mirip API Al-Qur’an agar mudah digunakan dalam aplikasi.",
-  "audio": "https://domainmu.com/audio/istighotsah.mp3",
-  "status": true,
-
-  "bagian": [
+  "istighotsah": [
     {
-      "id": 1,
-      "nomor": 1,
-      "judul": "Pembukaan",
-      "ar": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ...",
-      "tr": "Alhamdu lillāhi rabbil ‘ālamīn...",
-      "idn": "Segala puji bagi Allah, Tuhan seluruh alam."
+      "number": "1",
+      "arabic": "اَسْتَغْفِرُ اللهَ رَبِّيْ مِنْ كُلِّ ذَنْبٍ وَأَتُوْبُ إِلَيْهِ",
+      "latin": "Astaghfirullaaha rabbii min kulli dzanbin wa atuubu ilaih",
+      "translation": "Aku memohon ampun kepada Allah Tuhanku dari segala dosa dan aku bertaubat kepada-Nya."
     },
     {
-      "id": 2,
-      "nomor": 2,
-      "judul": "Istighfar",
-      "ar": "اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ...",
-      "tr": "Astaghfirullāhal ‘azhīm...",
-      "idn": "Aku memohon ampun kepada Allah Yang Maha Agung..."
+      "number": "2",
+      "arabic": "اَللّٰهُمَّ اِنَّا نَسْتَغِيْثُ بِكَ وَنَسْتَنْصِرُكَ وَنَتَوَجَّهُ اِلَيْكَ",
+      "latin": "Allaahumma innaa nastaghiitsu bika wa nastanshiruka wa natawajjahu ilaik",
+      "translation": "Ya Allah, sesungguhnya kami memohon pertolongan kepada-Mu, meminta kemenangan dari-Mu, dan menghadap kepada-Mu."
     },
     {
-      "id": 3,
-      "nomor": 3,
-      "judul": "Sholawat",
-      "ar": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ...",
-      "tr": "Allāhumma ṣalli ‘alā sayyidinā Muḥammad...",
-      "idn": "Ya Allah, limpahkanlah shalawat kepada Nabi Muhammad..."
+      "number": "3",
+      "arabic": "اَللّٰهُمَّ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ انْصُرْنَا نَصْرًا عَزِيْزًا",
+      "latin": "Allaahumma yaa zal jalaali wal ikraam, unsurnaa nashran ‘aziizaa",
+      "translation": "Ya Allah, Tuhan Yang Maha Agung dan Mulia, berikanlah kami pertolongan yang kuat dan mulia."
     },
     {
-      "id": 4,
-      "nomor": 4,
-      "judul": "Tahlil",
-      "ar": "لَا اِلٰهَ اِلَّا اللّٰهُ",
-      "tr": "Lā ilāha illāllāh",
-      "idn": "Tiada Tuhan selain Allah."
+      "number": "4",
+      "arabic": "اَللّٰهُمَّ يَا حَيُّ يَا قَيُّوْمُ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+      "latin": "Allaahumma yaa hayyu yaa qoyyuum yaa zal jalaali wal ikraam",
+      "translation": "Ya Allah, Tuhan Yang Maha Hidup, Maha Berdiri Sendiri, Pemilik Keagungan dan Kemuliaan."
     },
     {
-      "id": 5,
-      "nomor": 5,
-      "judul": "Hasbunallah",
-      "ar": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ",
-      "tr": "Ḥasbunallāhu wa ni‘mal wakīl",
-      "idn": "Cukuplah Allah menjadi penolong kami."
+      "number": "5",
+      "arabic": "اَللّٰهُمَّ فَرِّجْ هَمَّنَا وَنَفِّسْ كَرْبَنَا وَاقْضِ دَيْنَنَا",
+      "latin": "Allaahumma farrij hammana wa naffis karbanaa waqdhii dainanaa",
+      "translation": "Ya Allah, lapangkanlah kegelisahan kami, hilangkan kesusahan kami, dan lunaskanlah hutang-hutang kami."
+    },
+    {
+      "number": "6",
+      "arabic": "اَللّٰهُمَّ اشْفِ مَرْضَانَا وَارْحَمْ مَوْتَانَا",
+      "latin": "Allaahummasfii mardhaanaa warham mawtanaa",
+      "translation": "Ya Allah, sembuhkanlah orang-orang sakit kami dan rahmatilah orang-orang yang telah wafat dari keluarga kami."
+    },
+    {
+      "number": "7",
+      "arabic": "اَللّٰهُمَّ ارْزُقْنَا خَيْرَ الدُّنْيَا وَالْآخِرَةِ",
+      "latin": "Allaahummarzuqnaa khairad dunyaa wal aakhirah",
+      "translation": "Ya Allah, karuniakanlah kepada kami kebaikan dunia dan akhirat."
+    },
+    {
+      "number": "8",
+      "arabic": "اَللّٰهُمَّ اكْشِفْ هٰذِهِ الْغُمَّةَ عَنْ هٰذِهِ الْأُمَّةِ",
+      "latin": "Allaahummaksyif haadzihil ghummata ‘an haadzihil ummah",
+      "translation": "Ya Allah, hilangkanlah penderitaan ini dari umat-Mu."
+    },
+    {
+      "number": "9",
+      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+      "latin": "Rabbanaa taqabbal minnaa innaka antas samii’ul ‘aliim",
+      "translation": "Wahai Tuhan kami, terimalah dari kami (segala amal ibadah kami), sesungguhnya Engkau Maha Mendengar lagi Maha Mengetahui."
+    },
+    {
+      "number": "10",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Rabbanaa aatinaa fid dunyaa hasanah wa fil aakhirati hasanah wa qinaa ‘adzaaban naar",
+      "translation": "Wahai Tuhan kami, berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa neraka."
     }
   ]
 }
