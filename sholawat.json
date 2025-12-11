@@ -1,52 +1,37 @@
 {
-  "nama": "Sholawat Diba",
-  "nama_latin": "Sholawat Diba'",
-  "jumlah_bacaan": 6,
-  "deskripsi": "Kumpulan bacaan sholawat pilihan dari kitab Maulid Diba'.",
+  "nama": "Kumpulan Shalawat Pilihan",
+  "nama_latin": "Kumpulan Shalawat Pilihan",
+  "jumlah_bacaan": 4,
+  "deskripsi": "Koleksi shalawat yang panjang dan terperinci, meliputi Shalawat Nuril Wajhi, Shalawat Asnawiyah, Shalawat Asyghil, dan Shalawat Badar.",
   "status": true,
-
   "bacaan": [
     {
       "id": 1,
-      "judul": "Sholawat Thibbil Qulub",
-      "ar": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ طِبِّ الْقُلُوْبِ وَدَوَائِهَا وَعَافِيَةِ الْاَبْدَانِ وَشِفَائِهَا وَنُوْرِ الْاَبْصَارِ وَضِيَائِهَا وَعَلٰى اٰلِهٖ وَصَحْبِهٖ وَسَلِّمْ",
-      "tr": "Allahumma shalli ‘alaa sayyidinaa Muhammadin thibbil quluubi wa dawaa’ihaa wa ‘aafiyatil abdaani wa shifaa’ihaa wa nuuril abshaari wa dhiyaa’ihaa wa ‘alaa aalihi wa shahbihi wa sallim",
-      "idn": "Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad, obat bagi hati dan penawarnya, kesehatan badan dan penyembuhnya, cahaya mata dan sinarnya."
+      "judul": "Shalawat Nuril Wajhi (Cahaya Wajah)",
+      "ar": "اَللّٰهُمَّ إِنِّيْ أَسْئَلُكَ بِنُوْرِ وَجْهِ اللهِ الْعَظِيْمِ الَّذِيْ مَلَاءَ أَرْكَانِ عَرْشِ اللهِ الْعَظِيْمِ وَقَامَتْ بِهِ عَوَالِمُ الْعَظِيْمِ أَنْ تُصَلِّيَ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ ذِي الْقَدْرِ الْعَظِيْمِ بِقَدْرِ عَظَمَةِ ذَاتِ اللهِ الْعَظِيْمِ فِيْ كُلِّ لَمْحَةٍ وَنَفَسٍ عَدَدَ مَا فِيْ عِلْمِ اللهِ الْعَظِيْمِ صَلَاةً دَائِمَةً بِدَوَامِ اللهِ الْعَظِيْمِ تَعْظِيْمًا لِحَقِّكَ يَامَوْلَانَا يَامُحَمَّدُ يَاذَا الْخُلُقِ الْعَظِيْمِ وَسَلِّمْ عَلَيْهِ وَعَلَى اٰلِهِ مِثْلَ ذٰلِكَ وَاجْمَعْ بَيْنِيْ وَبَيْنَهُ كَمَا جَمَعْتَ بَيْنَ الرُّوْحِ وَالنَّفْسِ ظَاهِرًا وَبَاطِنًا يَقْظَةً وَمَنَامًا وَاجْعَلْهُ يَا رَبِّ رُوْحًا لِذَاتِي مِنْ جَمِيْعِ الْوُجُوْهِ فِي الدُّنْيَا وَالْاٰخِرَةِ يَاعَظِيْمُ",
+      "tr": "Allâhumma innî as-'aluka binûri wajhillâhil ‘adhîmi alladzî mala'a arkâna ‘arsyillâhil ‘adhîmi wa qâmat bihi ‘awâlimul ‘adhîmi an tushalliya ‘alâ sayyidinâ wa mawlânâ muḫammadin dzil qadril ‘adhîmi bi qadri ‘adhamatillâhil ‘adhîmi fî kulli lamḫatin wa nafasin ‘adada mâ fî ‘ilmillâhil ‘adhîmi shâlâtan dâ'imatan bi dawâmillâhil ‘adhîmi ta’dzîman li haqqika yâ maulânâ yâ muḫammadu yâ dzal khuluqil ‘adhîmi wa sallim ‘alaihi wa ‘alâ âlihi mitsla dzâlika wajma’ bainî wa bainahu kamâ jama’ta bainar rûḫi wan nafsi dhâhiran wa bâthinan yaqdhatan wa manâman ya rabba rûḫan li dzâtî min jamî’il wujûhi fiddun'yâ wal âkhirati yâ ‘adhîm",
+      "idn": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan cahaya Dzat Allah Yang Mahaagung, yang memenuhi tiang-tiang arasy Allah yang agung... (hingga akhir doa)."
     },
     {
       "id": 2,
-      "judul": "Sholawat Nariyah",
-      "ar": "اَللّٰهُمَّ صَلِّ صَلاَةً كَامِلَةً وَسَلِّمْ سَلاَمًا تَامًّا عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي تَنْحَلُّ بِهِ الْعُقَدُ وَتَنْفَرِجُ بِهِ الْكُرَبُ وَتُقْضَى بِهِ الْحَوَائِجُ وَتُنَالُ بِهِ الرَّغَائِبُ وَحُسْنُ الْخَوَاتِيمِ وَيُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ الْكَرِيمِ وَعَلَى اٰلِهِ وَصَحْبِهِ فِيْ كُلِّ لَمْحَةٍ وَنَفَسٍ بِعَدَدِ كُلِّ مَعْلُوْمٍ لَكَ",
-      "tr": "Allahumma shalli shalaatan kaamilatan wa sallim salaaman taamman ‘alaa sayyidinaa Muhammadil-ladzi tanhallu bihil ‘uqad wa tanfariju bihil kurab...",
-      "idn": "Ya Allah, limpahkan shalawat sempurna dan salam sejati kepada Nabi Muhammad, yang dengan beliau segala kesusahan terurai dan segala kebutuhan terpenuhi."
+      "judul": "Shalawat Asnawiyah",
+      "ar": "يَا رَبِّ صَلِّ عَلَی الرَّسُوْ ۞ لِ مُحَمَّـدٍ سِرِّ الْعُلَا. وَالْأَنْبِيَــــــاءْ وَالْمُـرْسَلِيْـ ۞ نَ الْغُرِّ خَتْمًا أَوَّلَا... (hingga) ... وَيَا مُجِيْبَ السَّائِلِيْنَ",
+      "tr": "Yâ Rabbi shalli‘alâr Rasû ۞ li muḫammadin sirril ‘ulâ. Wal anbiyâ’ wal mursalî ۞ nal ghurri khatman awwalâ... (hingga) ... wayâ mujîbas sa-ilîn",
+      "idn": "Wahai Tuhanku, limpahkanlah rahmat kepada Rasulullah, Baginda Nabi Muḫammad ﷺ sang rahasia keunggulan... (hingga akhir doa)."
     },
     {
       "id": 3,
-      "judul": "Sholawat Ibrahimiyah",
-      "ar": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى اٰلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
-      "tr": "Allahumma shalli ‘alaa Muhammadin wa ‘alaa aali Muhammadin kamaa shallaita ‘alaa Ibraahiima wa ‘alaa aali Ibraahiima innaka hamiidun majiid",
-      "idn": "Ya Allah, limpahkanlah shalawat kepada Nabi Muhammad dan keluarga beliau sebagaimana Engkau memberi shalawat kepada Nabi Ibrahim."
+      "judul": "Shalawat Asyghil",
+      "ar": "اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَأَشْغِلِ الظَّالِمِيْنَ بِالظَّالِمِيْنَ وَأَخْرِجْنَا مِنْ بَيْنِهِمْ سَالِمِيْنَ وَعَلَى اٰلِهِ وَصَحْبِهِ أَجْمِعِيْنَ",
+      "tr": "Allâhumma shalli ‘alâ sayyidinâ Muḫammadin wa asyghilidh dhâlimîn(a) bidh dhâlimîn(a), wa akhrijnâ min bainihim sâlimîn(a) wa ‘alâ âlihi washaḫbihi ajma‘în(a)",
+      "idn": "Ya Allah limpahkanlah rahmat kepada Baginda Nabi Muhammad ﷺ. Sibukkanlah orang-orang zalim dengan sesama orang-orang zalim. Selamatkanlah kami dari kejahatan mereka... (hingga akhir doa)."
     },
     {
       "id": 4,
-      "judul": "Sholawat Munjiyat",
-      "ar": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُنْجِيْنَا بِهَا مِنْ جَمِيْعِ الْاَهْوَالِ وَالْاٰفَاتِ",
-      "tr": "Allahumma shalli ‘alaa sayyidinaa Muhammadin shalaatan tunjinaa bihaa min jamii’il ahwaali wal aafaati",
-      "idn": "Ya Allah, berkat shalawat kepada Nabi Muhammad, selamatkanlah kami dari segala bencana dan malapetaka."
-    },
-    {
-      "id": 5,
-      "judul": "Sholawat Badar",
-      "ar": "صَلُّوْا عَلَى النَّبِيِّ مُحَمَّدْ",
-      "tr": "Shalluu ‘alan nabiyyi Muhammad",
-      "idn": "Bershalawatlah kalian kepada Nabi Muhammad."
-    },
-    {
-      "id": 6,
-      "judul": "Sholawat Diba' – Penutup",
-      "ar": "صَلَّى اللهُ عَلَى مُحَمَّدْ صَلَّى اللهُ عَلَيْهِ وَسَلَّمْ",
-      "tr": "Shallallahu ‘alaa Muhammad, shallallahu ‘alaihi wasallam",
-      "idn": "Semoga Allah melimpahkan shalawat kepada Nabi Muhammad."
+      "judul": "Shalawat Badar",
+      "ar": "صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى طٰـهَ رَسُـوْلِ اللهِ. صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى يٰـسۤ حَبِيْبِ اللهِ. تَوَسَّلْنَــــا بِبِسْــــمِ اللّٰهِ ۞ وَبِالْـهَادِيْ رَسُـوْلِ اللهِ... (hingga akhir)",
+      "tr": "Shalâtullâh salâmullâh ۞ ‘alâ thâha rasûlillâh. Shalâtullâh salâmullâh ۞ ‘alâ yâsîn habîbillâh. Tawassalnâ bi bismillâh ۞ wabil hâdi rasûlillâh... (hingga akhir)",
+      "idn": "Semoga rahmat dan keselamatan Allah limpahkan kepada Thâhâ (Nabi Muhammad ﷺ) utusan Allah. Semoga rahmat dan keselamatan Allah limpahkan kepada Yâsîn (Nabi Muhammad ﷺ) kekasih Allah... (hingga akhir doa)."
     }
   ]
 }
