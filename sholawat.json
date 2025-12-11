@@ -1,37 +1,156 @@
 {
-  "nama": "Kumpulan Shalawat Pilihan",
-  "nama_latin": "Kumpulan Shalawat Pilihan",
-  "jumlah_bacaan": 4,
-  "deskripsi": "Koleksi shalawat yang panjang dan terperinci, meliputi Shalawat Nuril Wajhi, Shalawat Asnawiyah, Shalawat Asyghil, dan Shalawat Badar.",
+  "nama": "Sholawat Badar (Bait Terpisah)",
+  "nama_latin": "Sholawat Badr (Detailed)",
+  "jumlah_bacaan": 22,
+  "deskripsi": "Setiap bait dari lirik Shalawat Badar dipisahkan menjadi entri individual untuk kemudahan pembacaan dan penghafalan.",
   "status": true,
   "bacaan": [
     {
       "id": 1,
-      "judul": "Shalawat Nuril Wajhi (Cahaya Wajah)",
-      "ar": "اَللّٰهُمَّ إِنِّيْ أَسْئَلُكَ بِنُوْرِ وَجْهِ اللهِ الْعَظِيْمِ الَّذِيْ مَلَاءَ أَرْكَانِ عَرْشِ اللهِ الْعَظِيْمِ وَقَامَتْ بِهِ عَوَالِمُ الْعَظِيْمِ أَنْ تُصَلِّيَ عَلَى سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ ذِي الْقَدْرِ الْعَظِيْمِ بِقَدْرِ عَظَمَةِ ذَاتِ اللهِ الْعَظِيْمِ فِيْ كُلِّ لَمْحَةٍ وَنَفَسٍ عَدَدَ مَا فِيْ عِلْمِ اللهِ الْعَظِيْمِ صَلَاةً دَائِمَةً بِدَوَامِ اللهِ الْعَظِيْمِ تَعْظِيْمًا لِحَقِّكَ يَامَوْلَانَا يَامُحَمَّدُ يَاذَا الْخُلُقِ الْعَظِيْمِ وَسَلِّمْ عَلَيْهِ وَعَلَى اٰلِهِ مِثْلَ ذٰلِكَ وَاجْمَعْ بَيْنِيْ وَبَيْنَهُ كَمَا جَمَعْتَ بَيْنَ الرُّوْحِ وَالنَّفْسِ ظَاهِرًا وَبَاطِنًا يَقْظَةً وَمَنَامًا وَاجْعَلْهُ يَا رَبِّ رُوْحًا لِذَاتِي مِنْ جَمِيْعِ الْوُجُوْهِ فِي الدُّنْيَا وَالْاٰخِرَةِ يَاعَظِيْمُ",
-      "tr": "Allâhumma innî as-'aluka binûri wajhillâhil ‘adhîmi alladzî mala'a arkâna ‘arsyillâhil ‘adhîmi wa qâmat bihi ‘awâlimul ‘adhîmi an tushalliya ‘alâ sayyidinâ wa mawlânâ muḫammadin dzil qadril ‘adhîmi bi qadri ‘adhamatillâhil ‘adhîmi fî kulli lamḫatin wa nafasin ‘adada mâ fî ‘ilmillâhil ‘adhîmi shâlâtan dâ'imatan bi dawâmillâhil ‘adhîmi ta’dzîman li haqqika yâ maulânâ yâ muḫammadu yâ dzal khuluqil ‘adhîmi wa sallim ‘alaihi wa ‘alâ âlihi mitsla dzâlika wajma’ bainî wa bainahu kamâ jama’ta bainar rûḫi wan nafsi dhâhiran wa bâthinan yaqdhatan wa manâman ya rabba rûḫan li dzâtî min jamî’il wujûhi fiddun'yâ wal âkhirati yâ ‘adhîm",
-      "idn": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan cahaya Dzat Allah Yang Mahaagung, yang memenuhi tiang-tiang arasy Allah yang agung... (hingga akhir doa)."
+      "judul": "Bait 1",
+      "ar": "صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى طٰـهَ رَسُـوْلِ اللهِ",
+      "tr": "Shalâtullâh salâmullâh ۞ ‘alâ thâha rasûlillâh",
+      "idn": "Semoga rahmat dan keselamatan Allah limpahkan kepada Thâhâ (Nabi Muhammad ﷺ) utusan Allah."
     },
     {
       "id": 2,
-      "judul": "Shalawat Asnawiyah",
-      "ar": "يَا رَبِّ صَلِّ عَلَی الرَّسُوْ ۞ لِ مُحَمَّـدٍ سِرِّ الْعُلَا. وَالْأَنْبِيَــــــاءْ وَالْمُـرْسَلِيْـ ۞ نَ الْغُرِّ خَتْمًا أَوَّلَا... (hingga) ... وَيَا مُجِيْبَ السَّائِلِيْنَ",
-      "tr": "Yâ Rabbi shalli‘alâr Rasû ۞ li muḫammadin sirril ‘ulâ. Wal anbiyâ’ wal mursalî ۞ nal ghurri khatman awwalâ... (hingga) ... wayâ mujîbas sa-ilîn",
-      "idn": "Wahai Tuhanku, limpahkanlah rahmat kepada Rasulullah, Baginda Nabi Muḫammad ﷺ sang rahasia keunggulan... (hingga akhir doa)."
+      "judul": "Bait 2",
+      "ar": "صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى يٰـسۤ حَبِيْبِ اللهِ",
+      "tr": "Shalâtullâh salâmullâh ۞ ‘alâ yâsîn habîbillâh",
+      "idn": "Semoga rahmat dan keselamatan Allah limpahkan kepada Yâsîn (Nabi Muhammad ﷺ) kekasih Allah."
     },
     {
       "id": 3,
-      "judul": "Shalawat Asyghil",
-      "ar": "اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَأَشْغِلِ الظَّالِمِيْنَ بِالظَّالِمِيْنَ وَأَخْرِجْنَا مِنْ بَيْنِهِمْ سَالِمِيْنَ وَعَلَى اٰلِهِ وَصَحْبِهِ أَجْمِعِيْنَ",
-      "tr": "Allâhumma shalli ‘alâ sayyidinâ Muḫammadin wa asyghilidh dhâlimîn(a) bidh dhâlimîn(a), wa akhrijnâ min bainihim sâlimîn(a) wa ‘alâ âlihi washaḫbihi ajma‘în(a)",
-      "idn": "Ya Allah limpahkanlah rahmat kepada Baginda Nabi Muhammad ﷺ. Sibukkanlah orang-orang zalim dengan sesama orang-orang zalim. Selamatkanlah kami dari kejahatan mereka... (hingga akhir doa)."
+      "judul": "Bait 3 (Tawassul)",
+      "ar": "تَوَسَّلْنَــــا بِبِسْــــمِ اللّٰهِ ۞ وَبِالْـهَادِيْ رَسُـوْلِ اللهِ",
+      "tr": "Tawassalnâ bi bismillâh ۞ wabil hâdi rasûlillâh",
+      "idn": "Kami berwasilah dengan basmalah dan dengan nabi pembawa petunjuk yang menjadi utusan Allah."
     },
     {
       "id": 4,
-      "judul": "Shalawat Badar",
-      "ar": "صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى طٰـهَ رَسُـوْلِ اللهِ. صَلَاةُ اللهِ سَلَامُ اللهِ ۞ عَلَى يٰـسۤ حَبِيْبِ اللهِ. تَوَسَّلْنَــــا بِبِسْــــمِ اللّٰهِ ۞ وَبِالْـهَادِيْ رَسُـوْلِ اللهِ... (hingga akhir)",
-      "tr": "Shalâtullâh salâmullâh ۞ ‘alâ thâha rasûlillâh. Shalâtullâh salâmullâh ۞ ‘alâ yâsîn habîbillâh. Tawassalnâ bi bismillâh ۞ wabil hâdi rasûlillâh... (hingga akhir)",
-      "idn": "Semoga rahmat dan keselamatan Allah limpahkan kepada Thâhâ (Nabi Muhammad ﷺ) utusan Allah. Semoga rahmat dan keselamatan Allah limpahkan kepada Yâsîn (Nabi Muhammad ﷺ) kekasih Allah... (hingga akhir doa)."
+      "judul": "Bait 4 (Tawassul Badar)",
+      "ar": "وَ كُلِّ مُجَــــــاهِـدٍ لِلّٰهِ ۞ بِأَهْـلِ الْبَـدْرِ يـَا اَللهُ",
+      "tr": "Wakulli mujâhidin lillâh ۞ bi ahlil badri yâ allâh",
+      "idn": "Dan dengan seluruh orang yang berjuang karena Allah, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 5,
+      "judul": "Bait 5 (Keselamatan)",
+      "ar": "إِلٰـهِيْ سَـلِّـمِ الْأُمَّــةَ ۞ مِنَ الْاٰفَـاتِ وَالنِّـقْـمَةِ",
+      "tr": "Ilâhi sallimil ummah ۞ minal âfâti wan niqmah",
+      "idn": "Ya Allah, selamatkanlah umat dari bencana dan siksa."
+    },
+    {
+      "id": 6,
+      "judul": "Bait 6 (Menghilangkan Kesulitan)",
+      "ar": "وَمِنْ هَـمٍّ وَمِنْ غُمَّةٍ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Wamin hammin wa min ghummah ۞ bi ahlil badri yâ allâh",
+      "idn": "Dan dari kesusahan dan kesulitan, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 7,
+      "judul": "Bait 7 (Menghilangkan Kejahatan)",
+      "ar": "إِلٰهِيْ نَجِّنَا وَاكْشِفْ ۞ جَـمِيْعَ أَذِيـَّةٍ وَاصْرِفْ",
+      "tr": "Ilâhi najjinâ waksyif ۞ jamî‘a adziyyatin washrif",
+      "idn": "Ya Allah, selamatkanlah kami dari segala yang menyakitkan."
+    },
+    {
+      "id": 8,
+      "judul": "Bait 8 (Tipu Daya Musuh)",
+      "ar": "مَكَائِدَ الْعِدَا وَالْطُـفْ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Makâ'idal ‘idâ walthuf ۞ bi ahlil badri yâ allâh",
+      "idn": "Jauhkanlah dari tipu daya musuh. Kasihilah kami lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 9,
+      "judul": "Bait 9 (Kesusahan Maksiat)",
+      "ar": "إِلٰهِيْ نَـفِّسِ الْـكُرَبَا ۞ مِنَ الْعَـاصِيْـنَ وَالْعَطْـبَا",
+      "tr": "Ilâhi naffisil kurbâ ۞ minal ‘âshîna wal athbâ",
+      "idn": "Ya Allah, hilangkan kesusahan kami (yang muncul) dari orang-orang yang bermaksiat dan membuat kerusakan."
+    },
+    {
+      "id": 10,
+      "judul": "Bait 10 (Bencana dan Wabah)",
+      "ar": "وَكُلِّ بَلِيَّـةٍ وَوَبَـــا ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Wa kulli baliyyatin wa wabâ ۞ bi ahlil badri yâ allâh",
+      "idn": "Juga dari semua bencana dan wabah penyakit, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 11,
+      "judul": "Bait 11 (Rahmat dan Kenistaan)",
+      "ar": "فَكَمْ مِنْ رَحْمَةٍ حَصَلَتْ ۞ وَكَـمْ مِنْ ذِلَّةٍ فَصَلَتْ",
+      "tr": "Fakam min raḫmatin ḫashalat ۞ wa kam min dzillatin fashalat",
+      "idn": "Sudah banyak rahmat yang telah digapai, dan sudah banyak kenistaan yang dihilangkan."
+    },
+    {
+      "id": 12,
+      "judul": "Bait 12 (Nikmat yang Sampai)",
+      "ar": "وَكَـمْ مِنْ نِعْمَــةٍ وَصَلَتْ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Wa kam min ni’matin washalat ۞ bi ahlil badri yâ allâh",
+      "idn": "Dan sudah banyak dari nikmat yang telah sampai, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 13,
+      "judul": "Bait 13 (Kekayaan dan Nikmat)",
+      "ar": "وَكَـــمْ أَغْنَيْتَ ذَالْعُـمْـــرِ ۞ وَكَـمْ أَوْلَيْتَ ذَاالْفَـقْــرِ",
+      "tr": "Wa kam aghnaita dzal ‘umri ۞ wa kam aulaita dzal faqri",
+      "idn": "Sudah berapa banyak Engkau memberi kekayaan kepada orang makmur, dan berapa kali Engkau memberi nikmat kepada orang fakir"
+    },
+    {
+      "id": 14,
+      "judul": "Bait 14 (Ampunan Dosa)",
+      "ar": "وَكَـــمْ عَـافَـيْتَ ذِاالْوِزْرِ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Wa kam ‘âfaita dzil wizri ۞ bi ahlil badri yâ allâh",
+      "idn": "Berapa kali pula Engkau mengampuni orang berdosa, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 15,
+      "judul": "Bait 15 (Hati Gundah)",
+      "ar": "لَقَدْ ضَــاقَتْ عَلَى الْقَـلْبِ ۞ جَمِيْعَ الْأَرْضِ مَعْ رَحْبِ",
+      "tr": "Laqad dlâqat ‘alal qalbi ۞ jamî’al ardli ma‘ raḫbi",
+      "idn": "Sungguh bencana dan marabahaya itu telah membuat hati gundah di muka bumi yang luas ini."
+    },
+    {
+      "id": 16,
+      "judul": "Bait 16 (Selamat dari Bencana)",
+      "ar": "فَانْـجُ مِنَ الْبَلَا الصَّعْبِ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Fanju minal balâsh sha‘bi ۞ bi ahlil badri yâ allâh",
+      "idn": "Selamatkanlah kami (ya Allah) dari bencana yang menakutkan, melalui perantara berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 17,
+      "judul": "Bait 17 (Memohon Kebaikan)",
+      "ar": "أَتَيْنَــــــا طَالِـبِي الرِّفْــقِ ۞ وَجُـلِّ الْخَـيْرِ وَالسَّـعْدِ",
+      "tr": "Atainâ thâlibir rifqi ۞ wajullil khairi was sa‘di",
+      "idn": "Kami datang dengan memohon pertolongan, dan memohon besarnya kebaikan dan keberkahan."
+    },
+    {
+      "id": 18,
+      "judul": "Bait 18 (Anugerah Melimpah)",
+      "ar": "فَوَسِّـعْ مِنْحَــةَ الْأَيـْدِيْ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Fawassi’ minḫatal aidî ۞ bi ahlil badri yâ allâh",
+      "idn": "Semoga Allah meluaskan anugerah yang melimpah-limpah, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 19,
+      "judul": "Bait 19 (Memohon Kebaikan)",
+      "ar": "فَـلَا تَرْدُدْ مَـعَ الْخَـيـْبَةِ ۞ بَلِ اجْعَلْـنَا عَلَى الطَّيْبَةِ",
+      "tr": "Falâ tardud ma‘al khaibah ۞ balij‘alnâ ‘alath thaibah",
+      "idn": "Janganlah Engkau menolak kami dari kerugian, bahkan jadikanlah diri kami dapat beramal baik dan selalu berbahagia."
+    },
+    {
+      "id": 20,
+      "judul": "Bait 20 (Keagungan Allah)",
+      "ar": "أَيَا ذَاالْعِـــزِّ وَالْهَـيْبَـــةِ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ",
+      "tr": "Ayâ dzal ‘izzi wal haibah ۞ bi ahlil badri yâ allâh",
+      "idn": "Wahai Dzat yang punya kebesaran dan keagungan, lantaran berkah pejuang Badar, ya Allah."
+    },
+    {
+      "id": 21,
+      "judul": "Bait 21 (Mohon Hajat)",
+      "ar": "وَ إِنْ تَرْدُدْ فَمَنْ نَــأْتِيْ ۞ بِنَيـْلِ جَمِيْعِ حَاجَاتِيْ. أَيَا جَـــالِيْ الْمُلِـمَّاتِ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ. إِلٰهِيْ اغْفِــرْ وَأَ كْرِمْنَا ۞ بِـنَيـْلِ مَطَالِبٍ مِنَّا. وَدَفْـعِ مَسَــــاءَةٍ عَـنَّـــا ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ. إِلٰهِيْ أَنْتَ ذُوْ لُطْـفٍ ۞ وَذُوْ فَـضْلٍ وَذُوْ عَطْـفٍ. وَكَـمْ مِنْ كُـــرْبـَةٍ تَنْفِيْ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ. وَصَـلِّ عَلَى النَّبِيِّ الْبَرِّ ۞ بِلَا عَـدٍّ وَلَا حَـصْـرٍ. وَاٰلِ سَـــــــادَةٍ غُـــــــرٍّ ۞ بِأَهْـــلِ الْبَدْرِ يَا اَللهُ.",
+      "tr": "Wa in tardud faman na’tî ۞ bi naili jamî’i hâjâti. Ayâ jâlil mulimmâti ۞ bi ahlil badri yâ allâh. Ilâhi-ghfir wa akrimnâ ۞ bi naili mathâlibin minnâ. Wadaf‘i masâ'atin ‘annâ ۞ bi ahlil badri yâ allâh. Ilâhî anta dzû luthfin ۞ wadzû fadllin wadzû ‘athfin. Wa kam min kurbatin tanfî bi ahlil badri yâ allâh. Wa shalli ‘alan nabiyyil barri bilâ ‘addin walâ ḫashrin. Wa âli sâdatin ghurrin bi ahlil badri yâ allâh.",
+      "idn": "Jika Engkau menolak hamba maka kepada siapakah kami akan datang mohon semua hajat... Wahai Dzat yang menghilangkan bencana dunia dan akhirat... (hingga akhir Shalawat)."
     }
   ]
 }
